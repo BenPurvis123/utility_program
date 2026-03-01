@@ -12,8 +12,11 @@ This project combines multiple interactive utilities into a single menu-driven a
 Supports:
 
 - One-input operations
+  - Square
+  - Cube
   - Square root
   - Absolute value
+  - Reciprocal
 - Two-input operations
   - Addition
   - Subtraction

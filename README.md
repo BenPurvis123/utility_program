@@ -8,6 +8,12 @@ This project combines multiple interactive utilities into a single menu-driven a
 
 ## Features
 
+### Shared Input System
+
+The program uses a reusable input validation function that is called throughout all modes.
+
+This function acts like an internal interface, ensuring that user input is safely captured and validated before being used by any feature.
+
 ### 🔢 Basic Calculator
 Supports:
 
